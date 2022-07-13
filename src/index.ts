@@ -6,3 +6,4 @@ for (let numero: number = 1; numero <= 100; numero++) {
     console.log("El" + numero + "no es multiplo de 2, ni de 3");
   }
 }
+ 
